@@ -1,0 +1,1 @@
+﻿This is the first version of the scoping tool. The scoping tool is compatible with machines that have Microsoft Excel installed. The download package does not include an installer.
